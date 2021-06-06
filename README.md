@@ -1,0 +1,1 @@
+# stylelint-disallow-vendor-prefix
