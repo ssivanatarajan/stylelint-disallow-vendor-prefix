@@ -1,9 +1,8 @@
 {
     "name": "stylelint-disallow-vendor-prefix",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Stylelint plugin to disallow vendor prefixes for given properties",
     "main": "index.js",
-
     "dependencies": {
         "postcss": "^6.0.22",
         "stylelint": "^13.8.0",
