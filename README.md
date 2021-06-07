@@ -23,11 +23,12 @@ npm install stylelint-disallow-vendor-prefix --save-dev
 The following patterns are considered violations:
 ```css
 .a{-webkit-transform-origin:top;-webkit-animation:myanim;}
-
+```
 
 
 ## Options
 
-### `true`
+ ```js
+{true ,properties:["array", "of", "unprefixed properties", /or/, "/regex/"]}
+```
 
-### ["array", "of", "unprefixed properties", /or/, "/regex/"]
