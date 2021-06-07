@@ -1,0 +1,28 @@
+{
+    "name": "stylelint-disallow-vendor-prefix",
+    "version": "1.0.0",
+    "description": "Stylelint plugin to disallow vendor prefixes for given properties",
+    "main": "index.js",
+
+    "dependencies": {
+        "postcss": "^6.0.22",
+        "stylelint": "^13.8.0",
+        "underscore": "1.13.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ssivanatarajan/stylelint-disallow-vendor-prefix.git"
+    },
+    "author": {
+        "name": "Sivantarajan",
+        "url": "https://github.com/ssivanatarajan/"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ssivanatarajan/stylelint-disallow-vendor-prefix/issues"
+    },
+    "homepage": "https://github.com/ssivanatarajan/stylelint-disallow-vendor-prefix#readme"
+}
